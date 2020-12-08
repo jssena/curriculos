@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Freight Sans Pro';
+    src: url('FreightSansPro-Light.woff2') format('woff2'),
+        url('FreightSansPro-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Freight Sans Pro';
+    src: url('FreightSansPro-Medium.woff2') format('woff2'),
+        url('FreightSansPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Freight Sans Pro';
+    src: url('FreightSansPro-Book.woff2') format('woff2'),
+        url('FreightSansPro-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Freight Sans Pro';
+    src: url('FreightSansPro-Semibold.woff2') format('woff2'),
+        url('FreightSansPro-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+

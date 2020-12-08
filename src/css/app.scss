@@ -1,0 +1,13 @@
+// app global css in SCSS form
+@import './fonts/didot/stylesheet.css', './fonts/freight-sans-pro/stylesheet.css';
+// If your build tool supports css module
+@import '~vue-croppa/dist/vue-croppa.css';
+@import '~axios-progress-bar/dist/nprogress.css';
+body{
+  font-family: 'Freight Sans Pro';
+  font-weight: 300;
+}
+.titulo{
+  font-family: 'Didot 06';
+  
+}

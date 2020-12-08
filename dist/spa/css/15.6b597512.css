@@ -1,0 +1,1 @@
+transition(value){transition:value}.my-sticky-header-table thead tr:first-child th{position:-webkit-sticky;position:sticky;top:0;opacity:1;z-index:1}td{position:relative}td .botoes{top:10px;position:absolute;right:0;opacity:0}tr:hover td .botoes{opacity:1}

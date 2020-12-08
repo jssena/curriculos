@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Didot 06';
+    src: url('Didot-06Medium.eot');
+    src: url('Didot-06Medium.eot?#iefix') format('embedded-opentype'),
+        url('Didot-06Medium.woff2') format('woff2'),
+        url('Didot-06Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
